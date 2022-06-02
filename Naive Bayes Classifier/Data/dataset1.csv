@@ -1,0 +1,12 @@
+kartu,panggilan,blok,bonus
+prabayar,sedikit,sedang,0
+pascabayar,banyak,sedang,1
+prabayar,banyak,sedang,1
+prabayar,banyak,rendah,0
+pascabayar,cukup,tinggi,1
+pascabayar,cukup,sedang,1
+prabayar,cukup,sedang,1
+prabayar,cukup,rendah,0
+pascabayar,sedikit,tinggi,1
+pascabayar,banyak,tinggi,1
+pascabayar,sedikit,rendah,1
